@@ -1,0 +1,44 @@
+= Move =
+gg/G		top/bottom document
+H/L		top/bottom of visible window
+0/$		full left/full right 	
+h/l        	left/right
+CTRL+u/CTRL+d	up/down half page
+k/j       	up/down
+
+= Normal Mode =
+ = Find =
+ /{search}      search forward
+ n/N		next/prev occurance
+ = Line handling =
+ o		add blank line below 
+ = Selecting =
+ v/V 		visual mode char/Line(for selecting manually)
+ yy or Y        yank current line
+ y$             yank to end of line
+ yf{char}	yank from cursor to char
+ y% 		yank stuff inside brackets
+ yiw		yank current word			
+ = Yank / Put =
+ P/p            paste before/after cursor
+ = Cut =
+ Same principle as yank (y)
+ d{motion} instead of y{motion}
+
+ dd 		delete/cut current line
+ d$ 		delete/cut from cursor to end of line
+ daw 		delete/cut current word incl whitespace
+ x		delete/cut at cursor 
+ = Undo/Redo =
+ u 		undo
+ Ctrl+r		redo
+ = Clipboard =
+ ctrl+shift+v	paste
+ ctrl+shift+c   copy 
+
+= Visual Mode = 
+ y		yanks current selection
+ d		cuts current selection
+ i(		selects stuff in brackets
+ i"		selects in quotes
+

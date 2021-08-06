@@ -1,0 +1,13 @@
+history 		show terminal history
+wget [URL]		download url-file
+tail -n {NUM} [FILE]	show last NUM rows in file, default 10
+head -n {NUM} [FILE]    show first NUM rows in file
+which [alias]		shows path of process executable
+
+= Grep =
+grep {search} [FILE(s)]	search in file(s)
+
+Options:
+-i	ignore case
+
+

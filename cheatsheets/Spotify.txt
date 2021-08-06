@@ -1,0 +1,3 @@
+Space		Play/Pause
+Ctrl+Right	Next
+Ctrl+Left 	Prev

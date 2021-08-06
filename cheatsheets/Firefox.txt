@@ -1,0 +1,24 @@
+Ctrl + k	Focus Search bar
+Ctrl + -        Zoom in
+Ctrl + +        Zoom out
+Ctrl + h        Open History sidebar
+{new shortcut}
+
+= Vimium Add-on =
+? 		big list of shortcuts
+ = Page =					= Tabs =
+  = Scrolling = 				t	new tab
+gg/G		top/bottom			J/K	go tab left/right
+u/d             halv page up/down		x/X	Close/restore curr tab
+h/l             left/right			
+  = Misc =
+r		reload
+o               open URL,Bookmark,history entry
+  = Find =
+/               Enter find mode
+n/N		find next/prev match
+  = History =
+H/L		Backward/Forward in history
+
+
+
