@@ -1,11 +1,22 @@
 == Tabs ==
-ctrl+TAB 	next tab
-ctrl+shift+TAB	prev tab
+ctrl+i		next tab
+ctrl+h		prev tab
+ctrl+n		go back
+ctrl+e		go forward
 :qw		save+close tab
 :q!		close without saving tab
 :w		save tab
+
+== Code navigation ==
+None		find all references
+
 == VIM-extension ==
+
+= Insertion =
+a		insert after cursor
+
 = Move =
+gd		goto definition
 gg/G		top/bottom document
 H/L		top/bottom of visible window
 0/$		full left/full right 	

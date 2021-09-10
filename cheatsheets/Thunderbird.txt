@@ -1,0 +1,13 @@
+Shift+F5	Get new messages from all accounts
+F6 		move to next mail pane
+
+f		Goto next message
+b		Goto prev message
+
+ctrl+r		Reply to sender of msg
+ctrl+R		Reply to all
+ctrl+n		New message
+
+== Addon: Quick folder move ==
+M		Move to folder
+G		Navigate to folder

@@ -1,0 +1,6 @@
+#!/bin/bash
+# Get information about the currently focused window to know which cheatsheet to open/create.
+cheatsheetdir=$(dirname $0)"/cheatsheets"
+#install_insert_cfg
+mkdir -p -- "$cheatsheetdir"
+

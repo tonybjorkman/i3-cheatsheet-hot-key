@@ -2,7 +2,9 @@ Ctrl + k	Focus Search bar
 Ctrl + -        Zoom in
 Ctrl + +        Zoom out
 Ctrl + h        Open History sidebar
-{new shortcut}
+F6		Unfocus input field
+E/U		Go back/Go forward
+N/I		Next tab/prev tab
 
 = Vimium Add-on =
 ? 		big list of shortcuts

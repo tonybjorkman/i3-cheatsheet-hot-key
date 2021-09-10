@@ -3,6 +3,7 @@ gg/G		top/bottom document
 H/L		top/bottom of visible window
 0/$		full left/full right 	
 h/l        	left/right
+CTRL+b/CTRL+f 	up/down full page
 CTRL+u/CTRL+d	up/down half page
 k/j       	up/down
 

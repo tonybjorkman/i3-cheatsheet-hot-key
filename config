@@ -1,0 +1,4 @@
+# changing the terminals used is likely to
+# require tweaking of script since terminal specific parameters are used. Also it uses a primaryand secondary terminal application to make it simple to discriminate between them.
+primary_terminal=Gnome-terminal
+popup_terminal=xfce4-terminal
