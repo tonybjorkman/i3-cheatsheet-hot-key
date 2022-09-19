@@ -1,5 +1,8 @@
 # i3 window manager auto cheatsheet hot key
 
+# Example / Demo
+https://www.youtube.com/watch?v=CUmpe-_bbVU
+
 # Requirements:
 i3 window manager
 Install xfce4-terminal, used for the popup.
